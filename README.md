@@ -43,7 +43,7 @@ Library/Preferences/Renoise/V3.5.4/Scripts/Tools/com.renoise.Duplex.xrnx/Duplex/
 Restart Renoise. Then go into Tools > Duplex > Nano Control 2
 If all went well, you will see 2 options in this folder: 
 
-Mixer & Macros 
+Mixer & Macros    
 Mixer & FX
 
 These are the 2 modes Duplex will switch between when you press the SET button on the NK2.
