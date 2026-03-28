@@ -1,8 +1,8 @@
 # Renoise Duplex Script for the Korg Nano Control 2
 
-This is a custom LUA script to use with Duplex Tool in Renoise. The info page for Duplex is here: (Duplex)[https://www.renoise.com/tools/duplex-browser]
+This is a custom LUA script to use with Duplex Tool in Renoise. The info page for Duplex is here: [Duplex](https://www.renoise.com/tools/duplex-browser)
 
-Now as Duplex “seems" to be abandonware, you should actually get this fork here by ylmrx (https://github.com/ylmrx/DeuxPieces)h[ttps://github.com/ylmrx/DeuxPieces]
+Now as Duplex “seems" to be abandonware, you should actually get this fork here by ylmrx [https://github.com/ylmrx/DeuxPieces](https://github.com/ylmrx/DeuxPieces)
 
 The fork seems to have solved bugs and other things not working in the original Duplex which aunt been updated in years. I am using the fork and have not experienced any issues with it. So thanks to ylmrx for this update. The last version was from the end of 2025, so it us quite recent.
 
