@@ -1,4 +1,4 @@
-# Renoise Duplex Script for the Korg Nano Control 2
+# Renoise Duplex Script for the Korg NanoKontrol 2
 
 This is a custom LUA script to use with Duplex Tool in Renoise. The info page for Duplex is here: [Duplex](https://www.renoise.com/tools/duplex-browser)
 
